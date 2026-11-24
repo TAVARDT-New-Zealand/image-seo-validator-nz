@@ -1,14 +1,13 @@
 # Image SEO and Visual Accessibility Auditor
 
 [![Image SEO Auditor](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/nz/image-seo-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-New%20Zealand-00C853.svg)](https://ag.tavardt.com/nz/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits alt text completeness, next-gen format adoption, and layout stability dimensions in New Zealand.
 
-Developed and maintained by the digital systems and visual accessibility division of **[TAVARDT New Zealand](https://ag.tavardt.com/nz/)**.
+Developed and maintained by the digital systems and visual accessibility division of **TAVARDT New Zealand**.
 
----
+***
 
 ## Image SEO and Accessibility Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the digital systems and visual accessibility divisio
 * **Lazy Loading Implementation**: Audits `loading="lazy"` attributes on non-critical images.
 * **Image Optimization Health Score**: Quantitative 0 to 100 health score with prioritized technical remediation steps.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python image_seo_validator.py https://company.co.nz
 To output results in structured JSON format:
 
 ```bash
-python image_seo_validator.py https://company.co.nz --json
+python image_seo_validator.py https://company.co.nz -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep image catalog audits:
 
-* **[Official Image SEO Checker Tool](https://tools.tavardt.com/nz/image-seo-checker/)**
-* **[TAVARDT New Zealand Enterprise Portal](https://ag.tavardt.com/nz/)**
+* **Official Image SEO Checker Tool**
+* **TAVARDT New Zealand Enterprise Portal**
 
----
+***
 
 ## Visual Accessibility and Media Optimization Advisory
 
-For platforms operating across New Zealand under W3C WCAG Standards and NZ Digital Government Guidelines, contact **[TAVARDT New Zealand](https://ag.tavardt.com/nz/contact/)**.
+For platforms operating across New Zealand under W3C WCAG Standards and NZ Digital Government Guidelines, contact **TAVARDT New Zealand**.
