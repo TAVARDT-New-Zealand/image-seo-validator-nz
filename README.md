@@ -52,4 +52,12 @@ For platforms operating across New Zealand under W3C WCAG Standards and NZ Digit
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
