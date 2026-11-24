@@ -5,7 +5,7 @@
 
 Audits alt text completeness, next-gen format adoption, and layout stability dimensions in New Zealand.
 
-Developed and maintained by the digital systems and visual accessibility division of **TAVARDT New Zealand**.
+Developed and maintained by the digital systems and visual accessibility division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python image_seo_validator.py https://company.co.nz -json
 For full web verification and deep image catalog audits:
 
 * **Official Image SEO Checker Tool**
-* **TAVARDT New Zealand Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Visual Accessibility and Media Optimization Advisory
 
-For platforms operating across New Zealand under W3C WCAG Standards and NZ Digital Government Guidelines, contact **TAVARDT New Zealand**.
+For platforms operating across New Zealand under W3C WCAG Standards and NZ Digital Government Guidelines, contact **TAVARDT**.
 
 ***
 
