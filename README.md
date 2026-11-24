@@ -49,3 +49,7 @@ For full web verification and deep image catalog audits:
 ## Visual Accessibility and Media Optimization Advisory
 
 For platforms operating across New Zealand under W3C WCAG Standards and NZ Digital Government Guidelines, contact **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
