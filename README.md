@@ -2,6 +2,7 @@
 
 [![Image SEO Auditor](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/nz/image-seo-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audits alt text completeness, next-gen format adoption, and layout stability dimensions in New Zealand.
 
@@ -57,6 +58,11 @@ For platforms operating across New Zealand under W3C WCAG Standards and NZ Digit
 * **Corporate Portal:** https://ag.tavardt.com/nz/
 * **Diagnostic Suite:** https://tools.tavardt.com/nz/
 * **Technical Contact:** https://ag.tavardt.com/nz/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
